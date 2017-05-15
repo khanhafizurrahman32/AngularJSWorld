@@ -1,0 +1,7 @@
+used angularjs feature:
+
+$service
+$broadcast
+$watch
+dependency injection
+communication among controllers using service 
